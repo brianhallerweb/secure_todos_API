@@ -41,7 +41,7 @@
 3.  If there is a user in the database that matches the token, the token and user id are added to the request object
 4.  Request object proceeds to the private part of the route.
 
-![Alt text](/diagrams/AuthenticationMiddlware.jpg)
+![Alt text](/diagrams/AuthenticationMiddleware.jpg)
 
 ---
 
